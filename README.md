@@ -1,4 +1,5 @@
 A responsive React application that allows users to search movies using the OMDb API, view details, and manage a personal watchlist.
+
 🚀 Features:
 
 ✅ Search movies using OMDb API (on Enter key or Search button)
