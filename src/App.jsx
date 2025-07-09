@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>🎬Movie Explorer</h1>
+        <h1>🎬Mini Movie Explorer</h1>
         <button onClick={() => setDarkMode(!darkMode)} className="toggle-dark">
           {darkMode ? "☀️ Light" : "🌙 Dark"}
         </button>
